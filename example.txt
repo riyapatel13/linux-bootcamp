@@ -4,4 +4,4 @@ he was a good programmer and didn't need to.
 But one day, he made a mistake and wrote buggy code. He searched for hours for
 his bug, but couldn't figure it out.
 
-Write an ending to the story!
+This is the ending on the realistic branch.
