@@ -12,3 +12,5 @@ But one day, he made a mistake and wrote buggy code. He searched for hours for
 his bug, but couldn't figure it out.
 
 This should resolve the merge conflict.
+
+This is the addition after creating a new branch.
